@@ -2,7 +2,7 @@
 
 path_log="/media/mand/LOG"
 path_backup="/media/mand/BACKUP"
-param=100
+param=70
 free_space=$((100 - $(df --output=pcent $path_log | tr -dc '0-9')))
 
 echo -e "Hello, $(whoami)!\n"
