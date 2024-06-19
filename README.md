@@ -1,4 +1,4 @@
 # Workshop_on_OS
 
-Simple script fo disk space organization
+Simple script for disk space organization
 
